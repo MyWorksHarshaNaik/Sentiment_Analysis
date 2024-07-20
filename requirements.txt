@@ -6,3 +6,4 @@ gunicorn==22.0.0
 nltk==3.8.1
 Jinja2==3.1.4
 spacy==3.7.5
+-e .
